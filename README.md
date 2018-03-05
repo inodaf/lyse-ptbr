@@ -1,2 +1,2 @@
-# lyse-ptbr
-🇧🇷Tradução do Livro "Learn You Some Erlang for Great Good!"
+# [pt-BR] - Learn You Some Erlang for great Good!
+#### Tradução não oficial para Português do Brasil.
