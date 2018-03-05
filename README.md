@@ -2,7 +2,7 @@
 #### Tradução não oficial para Português do Brasil.
 
 
-# Tabela de Conteúdos
+## Tabela de Conteúdos
 ### Introdução
 - Sobre este tutorial
 - Então, o que é Erlang?
