@@ -87,3 +87,14 @@ Se você estiver usando macOS, você pode instalar o Erlang com o [Homebrew](htt
 Alternativamente, a _Erlang Solutions Ltd._ oferece pacotes para a maior parte dos Sistemas Operacionais, que geralmente funcionam muito bem (baixe uma distribuição 'Standard').
 
 > Nota: no momento da escrita desse tutorial, estou usando a versão _R13B+_ do Erlang, mas para melhores resultados, você deve usar versões mais recentes.
+
+
+### Onde conseguir ajuda
+
+Possuem alguns lugares onde você pode consultar. Se você usa Linux, você pode acessar as _páginas man_ para obter uma boa documentação técnica. Erlang tem um módulo _lists_ (que veremos em breve): para obter a documentação atráves do _lists_ digite `$ erl -man lists`.
+
+No Windows, a instalação deve incluir a documentação em HTML. Você pode baixá-la a qualquer momento através do [site oficial do Erlang](http://erlang.org/doc/) ou consultar um dos [sites alternativos](http://erldocs.com/).
+
+Possuem momentos em que obter detalhes técnicos não é o suficiente. Quando isso acontece, Eu recorro à duas fontes principais: a [lista de discussões oficial](http://www.erlang.org/static/doc/mailinglist.html) (você deveria seguir para aprender ainda mais) e no canal [#erlang](irc://irc.freenode.net/erlang) no [irc.freenode.net](freenode.net).
+
+E mais, se você for o tipo de pessoa que busca por 'cookbooks' e 'receitas pré-feitas', [trapexit](http://trapexit.org/) é o lugar que você está procurando. Eles também possuem as listas de discussões como um fórum e uma Wiki geral, que pode ser sempre útil.
