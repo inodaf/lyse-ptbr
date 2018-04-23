@@ -1,6 +1,10 @@
 # [pt-BR] - Learn You Some Erlang for Great Good!
 #### Tradução não oficial para Português do Brasil.
 
+> **Nota**:
+>
+> Este livro foi originalente escrito por *Fred Hebert*
+> e está disponível para venda em: https://nostarch.com/erlang
 
 ## Tabela de Conteúdos
 ### Introdução
